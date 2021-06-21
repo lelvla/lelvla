@@ -1,10 +1,10 @@
 #### This is a homework
 
 - 👋 Hi, I’m @lelvla
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in 111111
+- 🌱 I’m currently learning 22
+- 💞️ I’m looking to collaborate on 3333
+- 📫 How to reach me https://lelvla.github.io/
 
 nice to meet you!
 <!---
